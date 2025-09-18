@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🔥 Viral Collection 🔥</title>
+
+  <!-- SEO Meta -->
+  <meta name="description" content="🔥 ভাইরাল কালেকশন 🔥 সেরা সব কালেকশন পেতে এখনই ক্লিক করুন 👉">
+
+  <!-- Facebook / Social Preview -->
+  <meta property="og:title" content="🔥 Viral Collection 🔥">
+  <meta property="og:description" content="ভাইরাল কালেকশন পেতে এখানে ক্লিক করুন 👉">
+  <meta property="og:image" content="https://i.ibb.co/zGH9xL9/redirect.png">
+  <meta property="og:url" content="https://shubo77.github.io/smart-link/">
+  <meta property="og:type" content="website">
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://i.ibb.co/zGH9xL9/redirect.png" type="image/png">
+
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-top: 80px;
+      background: #f9f9f9;
+    }
+    h1 {
+      color: #222;
+      font-size: 28px;
+    }
+    p {
+      color: #444;
+      font-size: 18px;
+    }
+    #loading {
+      font-weight: bold;
+      margin: 20px 0;
+      color: #d9534f;
+      font-size: 20px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 14px 28px;
+      background: #0077cc;
+      color: white;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 18px;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #005fa3;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔗 Please Wait...</h1>
+  <p id="loading">৩ সেকেন্ডের মধ্যে লিঙ্ক ওপেন হবে...</p>
+  <a class="btn" href="https://www.revenuecpmgate.com/htspcf6hu?key=fd73167e57240532a8e6d3844be39472" target="_blank">👉 Continue</a>
+
+  <script>
+    let time = 3;
+    let loading = document.getElementById("loading");
+    let countdown = setInterval(function(){
+      time--;
+      loading.innerText = time + " সেকেন্ডের মধ্যে লিঙ্ক ওপেন হবে...";
+      if(time === 0){
+        clearInterval(countdown);
+        window.location.href="https://www.revenuecpmgate.com/htspcf6hu?key=fd73167e57240532a8e6d3844be39472";
+      }
+    },1000);
+  </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🔥 Viral Collection 🔥</title>
+
+  <!-- SEO Meta -->
+  <meta name="description" content="🔥 ভাইরাল কালেকশন 🔥 সেরা সব কালেকশন পেতে এখনই ক্লিক করুন 👉">
+
+  <!-- Facebook / Social Preview -->
+  <meta property="og:title" content="🔥 Viral Collection 🔥">
+  <meta property="og:description" content="ভাইরাল কালেকশন পেতে এখানে ক্লিক করুন 👉">
+  <meta property="og:image" content="https://i.ibb.co/zGH9xL9/redirect.png">
+  <meta property="og:url" content="https://shubo77.github.io/smart-link/">
+  <meta property="og:type" content="website">
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://i.ibb.co/zGH9xL9/redirect.png" type="image/png">
+
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-top: 80px;
+      background: #f9f9f9;
+    }
+    h1 {
+      color: #222;
+      font-size: 28px;
+    }
+    p {
+      color: #444;
+      font-size: 18px;
+    }
+    #loading {
+      font-weight: bold;
+      margin: 20px 0;
+      color: #d9534f;
+      font-size: 20px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 14px 28px;
+      background: #0077cc;
+      color: white;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 18px;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #005fa3;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔗 Please Wait...</h1>
+  <p id="loading">৩ সেকেন্ডের মধ্যে লিঙ্ক ওপেন হবে...</p>
+  <a class="btn" href="https://www.revenuecpmgate.com/htspcf6hu?key=fd73167e57240532a8e6d3844be39472" target="_blank">👉 Continue</a>
+
+  <script>
+    let time = 3;
+    let loading = document.getElementById("loading");
+    let countdown = setInterval(function(){
+      time--;
+      loading.innerText = time + " সেকেন্ডের মধ্যে লিঙ্ক ওপেন হবে...";
+      if(time === 0){
+        clearInterval(countdown);
+        window.location.href="https://www.revenuecpmgate.com/htspcf6hu?key=fd73167e57240532a8e6d3844be39472";
+      }
+    },1000);
+  </script>
+</body>
+</html>
